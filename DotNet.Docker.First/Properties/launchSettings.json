@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "DotNet.Docker.First": {
+      "commandName": "Project"
+    }
+  }
+}
